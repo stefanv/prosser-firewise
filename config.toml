@@ -1,8 +1,8 @@
 baseURL = "/"
 languageCode = "en"
-title = "Blogophonic"
-author = "Formspree"
-description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+title = "Prosser-Lakeview Firewise"
+author = "Prosser-Lakeview Firewise Community"
+description = "Neighbors Preparing Together For Wildfire"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = ""
@@ -17,10 +17,10 @@ paginate = 3
 preserveTaxonomyNames = true
 
 [params]
-  orgName = "Formspree"
-  orgLocal = "Brooklyn, NY"
+  orgName = "Prosser Firewise"
+#  orgLocal = "Brooklyn, NY"
   favicon = "/img/favicon.ico?v=0"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "https://www.nfpa.org/-/media/Images/Firewise/Firewise-logos/FirewiseLogoPNG.ashx"
   # font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -29,7 +29,7 @@ preserveTaxonomyNames = true
   # "Color Palette" section of http://tachyons.io/docs/themes/skins/
   siteBgColor = "near-white"
   sidebarBgColor = "light-gray"
-  headlineColor = "dark-pink"
+  headlineColor = "fire-red"
   headingColor = "near-black"
   textColor = "dark-gray"
   sidebarTextColor = "mid-gray"
