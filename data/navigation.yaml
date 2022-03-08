@@ -8,7 +8,8 @@ header:
   - name: Homeowners
     title: For Homeowners
     url: /homeowners
-  - name: Join
+  - name: Join Us!
+    url: /join
   - name: Committee
     url: /committee
 #  - name: Blog
