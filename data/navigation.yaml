@@ -15,9 +15,9 @@ header:
 #  - name: Blog
 #    title: Blog
 #    url: /blog/
-  - name: Contact
-    title: Contact Form
-    url: /contact/
+#  - name: Contact
+#    title: Contact Form
+#    url: /contact/
 #  - name: Elements
 #    title: Element Page
 #    url: /elements/
