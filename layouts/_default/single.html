@@ -11,17 +11,12 @@
       <section class="post-body pt5 pb4">
         {{ .Content }}
         {{ .Scratch.Set "details" "closed" }}
-        {{ partial "shared/post-details.html" . }}
+        <!-- {{ partial "shared/post-details.html" . }}-->
       </section>
       <footer class="post-footer">
-        {{ partial "shared/post-pagination.html" . }}
+        <!-- {{ partial "shared/post-pagination.html" . }} -->
       </footer>
     </article>
-    {{ if .CurrentSection.Params.show_disqus_comments }}
-    <div class="post-comments pa0 pa4-l mt4">
-      {{ template "_internal/disqus.html" . }}
-    </div>
-    {{ end }}
   </section>
 </main>
 {{ end }}
