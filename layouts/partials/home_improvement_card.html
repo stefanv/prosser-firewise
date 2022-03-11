@@ -1,0 +1,50 @@
+<div id="improvement-card"></div>
+
+<script type="text/javascript">
+  cards = [
+    {
+      image: "https://www.nfpa.org/-/media/Images/Public-Education/By-topic/wildland/PrepDay/2021/2021PrepDay2WaysOut300.ashx?h=157&w=300&hash=0C9E976212E3BE5A329ABE481D53A5C3",
+      url: "https://www.nfpa.org/Public-Education/By-topic/Wildfire/Wildfire-safety-tips"
+    },
+    {
+      image: "https://www.nfpa.org/-/media/Images/Public-Education/By-topic/wildland/PrepDay/2021/2021PrepDayEmbers300.ashx?h=157&w=300&hash=93506C80EBE75C87A8CD237D2D44572A",
+      url: "https://www.nfpa.org/Public-Education/By-topic/Wildfire/Wildfire-safety-tips"
+    },
+    {
+      image: "https://www.nfpa.org/-/media/Images/Public-Education/By-topic/wildland/PrepDay/2021/2021PrepDayWoodPiles300.ashx?h=157&w=300&hash=58C112970559E875A2F81A222B601643",
+      url: "https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Preparing-homes-for-wildfire"
+    },
+    {
+      image: "https://www.nfpa.org/-/media/Images/Public-Education/By-topic/wildland/PrepDay/2021/2021PrepDayLandscaping300.ashx?h=157&w=300&hash=1D3C7D170482E17B2D11A635DE4EF73F",
+      url: "https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Preparing-homes-for-wildfire"
+    },
+    {
+      image: "https://www.nfpa.org/-/media/Images/Public-Education/By-topic/wildland/PrepDay/2021/2021PrepDayScreenVents300.ashx?h=157&w=300&hash=4354CD9635AABC9A0FE11BFD2ECE00A1",
+      url: "https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Firewise-USA/Firewise-USA-Resources/Research-Fact-Sheet-Series"
+    },
+    {
+      image: "https://www.nfpa.org/-/media/Images/Public-Education/By-topic/wildland/PrepDay/2021/2021PrepDayWildfirethreatens300.ashx?h=157&w=300&hash=68F756C8B51214B46A80E240F313DF68",
+      url: "https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Preparing-homes-for-wildfire"
+    },
+    {
+      image: "https://www.nfpa.org/-/media/Images/Public-Education/By-topic/wildland/PrepDay/2021/2021PrepDayLawnDebris2300.ashx?h=157&w=300&hash=439238AD561165368EB08827D70C0813",
+      url: "https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Preparing-homes-for-wildfire"
+    },
+    {
+      image: "https://www.nfpa.org/-/media/Images/Public-Education/By-topic/wildland/PrepDay/2021/2021PrepDayLawnDebris300.ashx?h=157&w=300&hash=5967959576231B3FB862A8845C6A8823",
+      url: "https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Preparing-homes-for-wildfire"
+    },
+    {
+      image: "https://www.nfpa.org/-/media/Images/Public-Education/By-topic/wildland/PrepDay/2021/2021PrepDayPets300.ashx?h=157&w=300&hash=75F5656DE4EC1D43FB79073C09557300",
+      url: "https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/TakeAction/Household-pets"
+    },
+    {
+      image: "https://www.nfpa.org/-/media/Images/Public-Education/By-topic/wildland/PrepDay/2021/2021PrepDayHorses300.ashx?h=157&w=300&hash=27BE8DE9541D57F0359639F84A19FC5E",
+      url: "https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/TakeAction/Horses"
+    }
+  ]
+ const div = document.getElementById("improvement-card");
+ const card = cards[Math.floor(Math.random()*cards.length)];
+
+ div.innerHTML = `<a href="${card.url}"><img src="${card.image}"></a><div>See <a href="https://www.nfpa.org/Events/Events/National-Wildfire-Community-Preparedness-Day#socialmediacards" class="all-tips">all tips</a></div>`;
+</script>

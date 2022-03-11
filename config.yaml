@@ -1,0 +1,66 @@
+baseURL: /
+languageCode: en
+title: Prosser-Lakeview Firewise
+author: Prosser-Lakeview Firewise Community
+description: Neighbors Preparing Together For Wildfire
+copyright: ''
+googleAnalytics: ''
+disqusShortname: ''
+metaDataFormat: yaml
+pygmentsCodeFences: true
+pygmentsOptions: linenos=table
+pygmentsStyle: friendly
+footnoteReturnLinkContents: '&#8617;'
+paginate: 3
+preserveTaxonomyNames: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+frontmatter:
+  date:
+    - ':filename'
+    - ':default'
+
+permalinks:
+  events: '/events/:year/:title'
+
+params:
+  orgName: Prosser Firewise
+  favicon: /img/favicon.ico?v=0
+  logo: /img/fire-alert.svg
+  textFontFamily: sans-serif
+  headingFontFamily: sans-serif
+  siteBgColor: near-white
+  sidebarBgColor: light-gray
+  headlineColor: fire-red
+  headingColor: near-black
+  textColor: dark-gray
+  sidebarTextColor: mid-gray
+  bodyLinkColor: blue
+  navLinkColor: near-black
+  sidebarLinkColor: near-black
+  footerTextColor: silver
+  buttonTextColor: near-white
+  buttonBgColor: black
+  buttonHoverTextColor: white
+  buttonHoverBgColor: blue
+  borderColor: moon-gray
+  socialInHeader: false
+  socialInFooter: false
+
+social:
+  facebook: groups/387327192806538
+  facebook_admin: ''
+  instagram: ''
+  youtube: ''
+  twitter: ''
+  github: ''
+  medium: ''
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
