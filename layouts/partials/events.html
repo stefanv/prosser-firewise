@@ -1,0 +1,15 @@
+<div class="event-header">Upcoming Events</div>
+<div class="events">
+  {{ range (.GetPage "events").Pages }}
+  {{ if (ge .Date (now.AddDate 0 0 -2)) }}
+  <div class="event">
+    <div class="event-date">{{ time.Format "Monday, January 2, 2006" .Date }}</div>
+    <div class="event-title">{{ .Title }}</div>
+    <div class="event-description">
+      {{ .Summary }}
+      <a class="event-readmore" href="{{ .RelPermalink }}">Read more →</a>
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+</div>

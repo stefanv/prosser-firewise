@@ -16,6 +16,15 @@ footnoteReturnLinkContents = "&#8617;" # ↩
 paginate = 3
 preserveTaxonomyNames = true
 
+[markup.goldmark.renderer]
+unsafe = true
+
+[frontmatter]
+date = [":filename", ":default"]
+
+[permalinks]
+events = "/events/:year/:title"
+
 [params]
   orgName = "Prosser Firewise"
 #  orgLocal = "Brooklyn, NY"

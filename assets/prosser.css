@@ -1,0 +1,56 @@
+.event-header {
+  font-size: 150%;
+  font-weight: bold;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+.event {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.event-date {
+  display: inline;
+  font-weight: bold;
+}
+
+.event-title {
+  display: inline;
+  font-size: 110%;
+}
+
+.event-date::after {
+  content: ": ";
+}
+
+.event-description {
+  font-style: italic;
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+}
+
+a.event-readmore {
+  text-decoration: none;
+}
+
+.event-readmore {
+  text-transform: uppercase;
+  font-weight: bold;
+  display: inline;
+}
+
+a.survey-link {
+  text-decoration: none;
+}
+
+.survey {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  background: #ea2445bb;
+  color: white;
+  font-weight: bold;
+  font-size: 1.7rem;
+  padding: 1rem;
+  border-radius: 15px;
+}

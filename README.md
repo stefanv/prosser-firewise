@@ -1,4 +1,11 @@
-# _Blogophonic_ - a blog theme for Hugo by [Formspree](https://formspree.io)
+# Prosser-Firewise website
+
+## Building
+
+Development: `hugo serve`
+Deployment: automatically via netlify
+
+## Original Blogophonic README
 
 A modern, beautiful, and easily configurable blog for Hugo that includes a dedicated page with a functional contact form.
 

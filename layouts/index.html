@@ -8,16 +8,9 @@
         {{ with .Params.subtitle }}<h2 class="f7 fw7 measure mv0 ttu tracked">{{ . }}</h2>{{ end }}
         {{ with .Content }}<p class="f4 measure mv4 lh-copy black-100">{{ . }}</p>{{ end }}
         {{ if .Params.show_action_link }}<a class="action {{ .Params.action_type }}" href="{{ .Params.action_link }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
-        <div>
-          <h2>Upcoming Events</h2>
-          <ul>
-            {{ range $.Site.Data.events }}
-            <li>
-              {{ time.Format "Monday, January 2, 2006" .date }}: {{ .name }}
-            </li>
-            {{ end }}
-          </ul>
-        </div>
+
+        {{ partial "survey" . }}
+        {{ partial "events" . }}
       </div>
       <div class="tr w-50-l">
       {{ with .Params.images }}
