@@ -1,6 +1,6 @@
 *.DS_Store
 public/
-resources/
+_resources
 node_modules/
 .hugo_build.lock
 *~
