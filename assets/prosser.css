@@ -1,6 +1,9 @@
 .site-nav {
-  padding-bottom: 1.25rem;
-  border-bottom: solid 1.5px #ea2445;
+  padding-bottom: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  /*border-bottom: solid 1.5px gray;*/
+  box-shadow: 0px 15px 15px -15px lightgray;
 }
 
 .subtitle {
@@ -82,4 +85,9 @@ a.clickable-banner-link {
 
 .survey {
   background: #ea2445;
+}
+
+.site-footer {
+  border-top: solid 1.5px lightgray;
+  padding-top: 1.25rem;
 }
