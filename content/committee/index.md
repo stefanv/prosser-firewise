@@ -6,6 +6,12 @@ draft: false
 #layout: wide-body
 ---
 
+We're working on the committee page, and will have more information
+here soon. Meanwhile, you may contact us at prosser-firewise@groups.io
+
+If you are interested in becoming more involved, please [sign up here](/sign-up).
+
+<!--
 The committee currently consists of
 
 - Person 1 (Chair)
@@ -13,8 +19,7 @@ The committee currently consists of
 - Person 3 (Co-Chair)
 - Person 4 (Ex-officio NFPA)
 ...
-
-You may contact us at address@tbd.org
+-->
 
 ## For the committee
 

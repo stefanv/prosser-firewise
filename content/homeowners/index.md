@@ -6,9 +6,11 @@ title: Homeowners
 
 {{< partial "survey" >}}
 
-2. [Secure your property](https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Preparing-homes-for-wildfire)
+3. [Secure your property](https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Preparing-homes-for-wildfire)
 
-3. Spread the word
+4. Spread the word
+
+Also see [relevant resources](/resources).
 
 ### Random tip
 

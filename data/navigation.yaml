@@ -1,17 +1,17 @@
 header:
-  - name: Home
-    title: Home Page
-    url: /
-  - name: About
-    title: About This Group
-    url: /about
+#  - name: Home
+#    title: Home Page
+#    url: /
+  - name: Why join?
+    title: Why join the group?
+    url: /join
   - name: Homeowners
     title: For Homeowners
     url: /homeowners
-  - name: Join Us!
-    url: /join
   - name: Committee
     url: /committee
+  - name: Resources
+    url: /resources
 #  - name: Blog
 #    title: Blog
 #    url: /blog/

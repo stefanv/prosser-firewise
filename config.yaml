@@ -1,7 +1,7 @@
 baseURL: /
 languageCode: en
-title: Prosser-Lakeview Firewise
-author: Prosser-Lakeview Firewise Community
+title: Prosser Firewise
+author: Prosser Firewise Community
 description: Neighbors Preparing Together For Wildfire
 copyright: ''
 googleAnalytics: ''
@@ -28,6 +28,7 @@ permalinks:
   events: '/events/:year/:title'
 
 params:
+  subtitle: Serving the neighborhoods of Prosser Lakeview and Prosser Woods Estates
   orgName: Prosser Firewise
   favicon: /img/favicon.ico?v=0
   logo: /img/fire-alert.svg
