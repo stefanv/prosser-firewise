@@ -11,11 +11,15 @@ that’s become overgrown and hazardous?
 
 We’re joining other Truckee neighborhoods like Tahoe Donner and
 Glenshire/Devonshire in being recognized by the National Fire
-Protection Association® as a Firewise Community. Benefits include:
-better protection of our homes, property, family, and neighbors from
-wildfire; safeguarding our forest, wildlife, and watershed; making
-evacuations safer; and potentially reducing insurance
-premiums. (California FAIR Plan, USAA, and Mercury insurance plans.)
+Protection Association® as a Firewise Community.
+
+Benefits include:
+
+- better protection of our homes, property, family, and neighbors from
+wildfire;
+- safeguarding our forest, wildlife, and watershed; making
+evacuations safer; and
+- potentially reducing insurance premiums (California FAIR Plan, USAA, and Mercury insurance plans).
 
 As with Truckee’s existing firewise communities, the success of the
 Prosser Firewise Community depends on the voluntary involvement of our
