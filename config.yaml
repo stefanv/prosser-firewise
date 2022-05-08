@@ -13,6 +13,7 @@ pygmentsStyle: friendly
 footnoteReturnLinkContents: '&#8617;'
 paginate: 3
 preserveTaxonomyNames: true
+resourceDir: _resources
 
 markup:
   goldmark:
