@@ -69,10 +69,17 @@ a.risk-reduction-link {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
   color: white;
-  font-weight: bold;
-  font-size: 1.25rem;
   padding: 1rem;
   border-radius: 15px;
+}
+
+.clickable-banner-title {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.clickable-banner-description {
+  padding-top: 0.75rem;
 }
 
 a.clickable-banner-link {
@@ -85,6 +92,10 @@ a.clickable-banner-link {
 
 .survey {
   background: #ea2445;
+}
+
+.emergency-alerts {
+  background: #f89828;
 }
 
 .site-footer {
