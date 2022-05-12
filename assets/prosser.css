@@ -102,3 +102,9 @@ a.clickable-banner-link {
   border-top: solid 1.5px lightgray;
   padding-top: 1.25rem;
 }
+
+.navicon {
+  width: 1.5rem;
+  vertical-align: middle;
+  padding-bottom: 4px;
+}

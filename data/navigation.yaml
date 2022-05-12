@@ -12,6 +12,8 @@ header:
     url: /committee
   - name: Resources
     url: /resources
+  - icon: /img/f_logo_RGB-Blue_58.png
+    url: https://www.facebook.com/groups/387327192806538
 #  - name: Blog
 #    title: Blog
 #    url: /blog/
