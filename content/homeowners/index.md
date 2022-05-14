@@ -2,8 +2,6 @@
 title: Homeowners
 ---
 
-## What can you do?
-
 {{< partial "survey" >}}
 
 3. [Secure your property](https://www.nfpa.org/Public-Education/Fire-causes-and-risks/Wildfire/Preparing-homes-for-wildfire)
