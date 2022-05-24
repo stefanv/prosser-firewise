@@ -5,7 +5,7 @@ summary: |
 ---
 
 **Date:** Saturday, June 11, 2022<br/>
-**Time:** 11:00–13:00<br/>
+**Time:** 11am–1pm<br/>
 **Place:** 1526 Ida Way<br/>
 
 We will host an event on Saturday, June 11, 2022 from 11am to 1pm at **11526 Ida Way** to commemorate National Firewise Preparedness
