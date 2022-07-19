@@ -10,6 +10,11 @@ title: Homeowners
 
 Also see [relevant resources](/resources).
 
+### For when a fire approaches
+
+- [Prepare an emergency kit](https://www.areyoufiresafe.com/set/prepare-your-emergency-kit)
+- [Pre-evacuation checklist](https://disastersafety.org/wildfire/what-to-do-if-a-wildfire-is-approaching/)
+
 ### Random tip
 
 {{< partial "home_improvement_card" >}}
