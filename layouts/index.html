@@ -9,6 +9,7 @@
         {{ with .Content }}<p class="f4 measure mv4 lh-copy black-100">{{ . }}</p>{{ end }}
         {{ if .Params.show_action_link }}<a class="action {{ .Params.action_type }}" href="{{ .Params.action_link }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
 
+        {{ partial "documents" . }}
         {{ partial "survey" . }}
         {{ partial "events" . }}
       </div>
