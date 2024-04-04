@@ -19,7 +19,7 @@ Benefits include:
 wildfire;
 - safeguarding our forest, wildlife, and watershed; making
 evacuations safer; and
-- potentially reducing insurance premiums (California FAIR Plan, USAA, and Mercury insurance plans).
+- potentially reducing insurance premiums (see [insurers currently offering discounts](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/Insurers-Currently-Offering-Discounts.cfm)).
 
 As with Truckee’s existing firewise communities, the success of the
 Prosser Firewise Community depends on the voluntary involvement of our
