@@ -9,14 +9,17 @@
         {{ with .Content }}<p class="f4 measure mv4 lh-copy black-100">{{ . }}</p>{{ end }}
         {{ if .Params.show_action_link }}<a class="action {{ .Params.action_type }}" href="{{ .Params.action_link }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
 
-        {{ partial "documents" . }}
-        {{ partial "survey" . }}
         {{ partial "events" . }}
+        {{ partial "documents" . }}
+        {{ partial "how-can-you-help" . }}
       </div>
+
       <div class="tr w-50-l">
-      {{ with .Params.images }}
-        {{ range first 1 . }}<img class="page-image mv0 w-70-m" src="{{ . }}"/>{{ end }}
-        {{ end }}
+        {{ partial "defensible-space-log.html" . }}
+
+        {{ with .Params.images }}
+          {{ range first 1 . }}<img class="page-image mv0 w-70-m" src="{{ . }}"/>{{ end }}
+          {{ end }}
       </div>
     </div>
   </section>
