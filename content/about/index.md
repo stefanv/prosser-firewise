@@ -25,6 +25,6 @@ As with Truckee’s existing firewise communities, the success of the
 Prosser Firewise Community depends on the voluntary involvement of our
 homeowners and residents. Getting involved is as easy as spending one
 hour a year doing yard cleanup and recording the time you invested on
-the [Prosser Firewise Risk Reduction Form](https://forms.gle/91CGZHuW7Pwp2G5m9).
+the [Prosser Firewise Risk Reduction Form]({{< link "log" >}}).
 
 If you would like to get more involved in this effort, please [sign up here](/sign-up).

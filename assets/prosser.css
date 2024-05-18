@@ -1,3 +1,7 @@
+html {
+  font-size: 105%;
+}
+
 .site-nav {
   padding-bottom: 2rem;
   padding-left: 1rem;
@@ -19,15 +23,11 @@
   font-weight: bold;
 }
 
-.event-header {
-  font-size: 150%;
-  font-weight: bold;
-  padding-top: 1rem;
+.events {
   padding-bottom: 0.5rem;
 }
 
 .event {
-  padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
 
@@ -67,7 +67,7 @@ a.risk-reduction-link {
 
 .clickable-banner {
   margin-top: 1.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   color: white;
   padding: 1rem;
   border-radius: 15px;

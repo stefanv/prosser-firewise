@@ -1,12 +1,15 @@
+links:
+  log: https://forms.gle/CnKwfepeakPcWCxj9
+
 header:
 #  - name: Home
 #    title: Home Page
 #    url: /
-  - name: Why join?
-    title: Why join the group?
-    url: /join
+  - name: About
+    title: More about Prosser Firewise
+    url: /about
   - name: Homeowners
-    title: For Homeowners
+    title: Information for Homeowners
     url: /homeowners
   - name: Committee
     url: /committee

@@ -15,6 +15,9 @@ paginate: 3
 preserveTaxonomyNames: true
 resourceDir: _resources
 
+# So events pages are generated
+buildFuture: true
+
 markup:
   goldmark:
     renderer:
