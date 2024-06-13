@@ -2,14 +2,13 @@
 title: About
 ---
 
-We started Prosser Firewise because everyone in the ‘hood is concerned
-about similar things: Will my house survive a wildfire in the
-neighborhood? Will my homeowner’s insurance rates skyrocket next year
-(or will I get dropped by my insurance after years)? Are there
-resources available to help clean up undeveloped lots and open space
-that’s become overgrown and hazardous?
+We started Prosser Firewise because everyone in the ‘hood is concerned about similar things:
+Will my house survive a wildfire in the neighborhood?
+Will my homeowner's insurance rates skyrocket next year?
+Will I get dropped by my insurance?
+Are there resources available to help clean up undeveloped lots and open space that’s become overgrown and hazardous?
 
-We’re joining other Truckee neighborhoods like Tahoe Donner and
+We haved joined other Truckee neighborhoods like Tahoe Donner and
 Glenshire/Devonshire in being recognized by the National Fire
 Protection Association® as a Firewise Community.
 
