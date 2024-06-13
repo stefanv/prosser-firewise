@@ -8,9 +8,9 @@ Will my homeowner's insurance rates skyrocket next year?
 Will I get dropped by my insurance?
 Are there resources available to help clean up undeveloped lots and open space that’s become overgrown and hazardous?
 
-We haved joined other Truckee neighborhoods like Tahoe Donner and
-Glenshire/Devonshire in being recognized by the National Fire
-Protection Association® as a Firewise Community.
+We have joined other Truckee neighborhoods like Tahoe Donner and
+Glenshire/Devonshire in being recognized by the National Fire Protection
+Association® as a Firewise Community.
 
 Benefits include:
 

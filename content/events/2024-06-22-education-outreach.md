@@ -6,7 +6,7 @@ summary: |
 
 **Date:** Saturday, June 22, 2024<br/>
 **Time:** 11am–1pm<br/>
-**Place:** 11526 Ida Way<br/>
+**Place:** 11526 Ida Way, Truckee, CA 96161<br/>
 
 There will be presentations by Truckee Fire District, the US Forestry
 Department, and the national Firewise organization.
