@@ -27,3 +27,4 @@ hour a year doing yard cleanup and recording the time you invested on
 the [Prosser Firewise Risk Reduction Form]({{< link "log" >}}).
 
 If you would like to get more involved in this effort, please [sign up here](/sign-up).
+You may also contact us via email: <a href="mailto:truckeeneighbors@gmail.com">truckeeneighbors@gmail.com</a>.
