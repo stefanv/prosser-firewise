@@ -17,6 +17,8 @@ header:
     url: /resources
   - icon: /img/f_logo_RGB-Blue_58.png
     url: https://www.facebook.com/groups/387327192806538
+  - icon: /img/github-mark.png
+    url: https://github.com/stefanv/prosser-firewise
 #  - name: Blog
 #    title: Blog
 #    url: /blog/
