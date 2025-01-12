@@ -10,6 +10,7 @@
         {{ if .Params.show_action_link }}<a class="action {{ .Params.action_type }}" href="{{ .Params.action_link }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
 
         {{ partial "events" . }}
+        {{ partial "certificates" . }}
         {{ partial "documents" . }}
         {{ partial "how-can-you-help" . }}
       </div>
