@@ -108,3 +108,9 @@ a.clickable-banner-link {
   vertical-align: middle;
   padding-bottom: 4px;
 }
+
+.education-day {
+  padding: 1rem;
+  background: #EAEBDD;
+  border-radius: 1rem;
+}
