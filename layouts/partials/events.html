@@ -1,5 +1,5 @@
 {{ $events := (where .Site.RegularPages "Type" "events") }}
-{{ $futureEvents := where $events ".Date" "ge" (now.AddDate 0 0 -2) }}
+{{ $futureEvents := (where $events ".Date" "ge" (now.AddDate 0 0 -2)).Reverse }}
 
 {{ if $futureEvents }}
 <h2>Upcoming Events</h2>
