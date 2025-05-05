@@ -6,6 +6,7 @@
         <!-- {{ with .Params.title }}<h1 class="f2 f1-m fw5-ns mv4 lh-solid tracked-tight">{{ . }}</h1>{{ end }} -->
         <img src="/files/Firewise_Logo.png" class="w-80"/>
         {{ with .Params.subtitle }}<h2 class="f7 fw7 measure mv0 ttu tracked">{{ . }}</h2>{{ end }}
+        {{ partial "education-day-2025" . }}
         {{ with .Content }}<p class="f4 measure mv4 lh-copy black-100">{{ . }}</p>{{ end }}
         {{ if .Params.show_action_link }}<a class="action {{ .Params.action_type }}" href="{{ .Params.action_link }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
 
