@@ -11,7 +11,8 @@ pygmentsCodeFences: true
 pygmentsOptions: linenos=table
 pygmentsStyle: friendly
 footnoteReturnLinkContents: '&#8617;'
-paginate: 3
+pagination:
+  pagerSize: 3
 preserveTaxonomyNames: true
 resourceDir: _resources
 
