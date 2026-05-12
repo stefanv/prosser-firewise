@@ -2,21 +2,90 @@ html {
   font-size: 105%;
 }
 
+.site-header {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .site-nav {
-  padding-bottom: 2rem;
+  box-sizing: border-box;
+  padding-bottom: 0.5rem;
   padding-left: 1rem;
   padding-right: 1rem;
   /*border-bottom: solid 1.5px gray;*/
   box-shadow: 0px 15px 15px -15px lightgray;
 }
 
+.site-brand,
+.site-links {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 .subtitle {
   font-style: italic;
+}
+
+.site-wordmark {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+}
+
+.site-wordmark .site-logo {
+  height: 1em;
+  width: auto;
+  font-size: 2rem;
+}
+
+.site-wordmark .site-title {
+  font-size: 2rem;
+}
+
+@media screen and (min-width: 60em) {
+  .site-wordmark .site-logo,
+  .site-wordmark .site-title {
+    font-size: 3rem;
+  }
+}
+
+.site-brand {
+  text-align: left;
+}
+
+@media screen and (max-width: 60em) {
+  .subtitle {
+    margin-top: 0.5rem;
+    text-align: left;
+  }
+  .site-links {
+    margin-top: 1rem;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.25rem 0.5rem;
+  }
+  .site-links a {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .site-links a {
+    flex: 1 0 30%;
+    text-align: left;
+  }
 }
 
 .page-image {
   padding: 0.75rem;
   box-shadow: 0 3px 10px gray;
+  max-width: 100%;
+  height: auto;
 }
 
 .site-links {
@@ -119,4 +188,16 @@ a.clickable-banner-link {
   padding: 1rem;
   background: #EAEBDD;
   border-radius: 1rem;
+}
+
+.community-events {
+  padding: 1rem 1.25rem;
+  background: #DAE8D2;
+  border-radius: 1rem;
+}
+
+@media screen and (min-width: 60em) {
+  .home-columns {
+    gap: 3rem;
+  }
 }

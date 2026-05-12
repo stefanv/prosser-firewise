@@ -33,7 +33,7 @@ permalinks:
   events: '/events/:year/:title'
 
 params:
-  subtitle: Serving the neighborhoods of Prosser Lakeview and Prosser Woods Estates
+  subtitle: Serving Prosser Lakeview Estates and Woods neighborhoods in Truckee, CA
   orgName: Prosser Firewise
   favicon: /img/favicon.ico?v=0
   logo: /img/fire-alert.svg
